@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <!-- Page Title -->
+    <title>Social Science YouTube Channels | Harris Family Register</title>
+
+    <!-- Meta Tags for SEO and Social Sharing -->
+    <meta name="description" content="Harris Nexus is a simple, easy-to-navigate bookmarking website designed for the Harris fam and its interconnected tribes. It features curated links to favorite YouTube channels, embedded stock tickers on a dedicated page, and other useful resources. The design prioritizes simplicity and accessibility, making it especially user-friendly for older family members.">
+    <meta name="keywords" content="HTML, CSS, Neocities, website, personal, portfolio">
+    <meta name="author" content="Harris Family Tribe">
+    
+    <!-- Open Graph Meta Tags (for better social media sharing) -->
+    <meta property="og:title" content="HarrisFamilyRegister">
+    <meta property="og:description" content="The Harris Family Register is a bookmarking site for preserving and sharing genealogical information, historical records, and family stories for the Harris family.">
+    <meta property="og:image" content="https://i.pinimg.com/1200x/78/3c/f6/783cf6783e9be24c718166b5596a3995.jpg">
+    <meta property="og:url" content="https://harrisfamilyregister.neocities.org/youtubechannels.html">
+    <meta property="og:type" content="website">
+    
+    <!-- Improved viewport settings -->
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0' name='viewport'/>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<meta content='true' name='HandheldFriendly'/>
+<meta content='yes' name='apple-mobile-web-app-capable'/>
+<title>Harris Family Register</title>
+
+<!-- SEO meta tags -->
+<meta name="description" content="The Harris Family Register is a digital archive dedicated to documenting the history and genealogy of the Harris family." />
+<meta name="keywords" content="Harris family, genealogy, family history, Harris family tree, Harris ancestry" />
+
+    
+  <!-- Twitter Card Meta Tags (for better Twitter sharing) -->
+    <meta name="twitter:card" content="https://pbs.twimg.com/profile_banners/968570585193353217/1728431395/1500x500">
+    <meta name="twitter:title" content="HarrisFamilyRegister">
+    <meta name="twitter:description" content="The Harris' fam's account and interconnected tribes.">
+    <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1843799616124334080/ZND2Qx2P_400x400.png">
+    
+    <!-- Link to external CSS stylesheet (optional) -->
+     <link rel="stylesheet" href="https://harrisfamilyregister.neocities.org/style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+ <link href='https://fonts.googleapis.com/css2?family=IM+Fell+English&amp;display=swap' rel='stylesheet'/>
+    <!-- Additional external links can go here (fonts, scripts, etc.) -->
+</head>
+
+<body>
+<div class='header-container'>
+  <header class='header'>
+    <div class='logo-container'>
+      <a href='#' id='random-page-link'>
+        <img alt='Harris Family Logo' class='header-logo' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwz4mDSIl9skWS_jvQcwGzpfAWbwTL8wdKeb9kFgLy76QoQkEiR1lSiaUOt4nDeiuJag9J0pjUfzqYjRV-8-0XBgFTqNcs4794ZxID7niMdRfz3N8v29QWR2MQ8-f3JlCfNjdp9y7aPPoop6B92rlzEZPsu-lz3kEurrkWdwmDNMHZTFPItsURSJXbcmg/s320/512%20Png%20Harris%20Family%20Logo.png' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwz4mDSIl9skWS_jvQcwGzpfAWbwTL8wdKeb9kFgLy76QoQkEiR1lSiaUOt4nDeiuJag9J0pjUfzqYjRV-8-0XBgFTqNcs4794ZxID7niMdRfz3N8v29QWR2MQ8-f3JlCfNjdp9y7aPPoop6B92rlzEZPsu-lz3kEurrkWdwmDNMHZTFPItsURSJXbcmg/s320/512%20Png%20Harris%20Family%20Logo.png 2x'>
+      </a>
+    </div>
+    <nav class='nav-menu'>
+   <ul class='nav-list'>
+        <li><a class='nav-button' href='/YouTubeChannels'>YouTube Channels</a></li>
+        <li><a class='nav-button' href='/stocks'>Stocks</a></li>
+        <li><a class='nav-button' href='/news'>News</a></li>
+        <li><a class='nav-button' href='/Sports'>Sports</a></li>
+        <li><a class='nav-button' href='/YouTubePlaylists'>YouTube Playlists</a></li>
+        <li><a class='nav-button' href='https://harrisfamswatchistory.tumblr.com/'>Our Watch History</a></li>
+      </ul>
+    </nav>
+  </header>
+</div>
+
+<div class='main-container'>
+  <div class='content-wrapper'>
+    <nav class='sidebar'>
+      <h2>Table of Contents</h2>
+        <ul>
+      <li><a href='#social-sciences-a'>A: &quot;The Adventurous A&quot;</a></li>
+      <li><a href='#social-sciences-b'>B: &quot;The Bold Beauty of B&quot;</a></li>
+      <li><a href='#social-sciences-c'>C: &quot;C: Catalyst of Curiosity&quot;</a></li>
+      <li><a href='#social-sciences-d'>D: &quot;D: Defining Discoveries&quot;</a></li>
+      <li><a href='#social-sciences-e'>E: &quot;E: Exploring Excellence&quot;</a></li>
+      <li><a href='#social-sciences-f'>F: &quot;F: Foundations of Knowledge&quot;</a></li>
+      <li><a href='#social-sciences-g'>G: &quot;G: Gateway to Greatness&quot;</a></li>
+      <li><a href='#social-sciences-h'>H: &quot;H: Horizons of Learning&quot;</a></li>
+      <li><a href='#social-sciences-i'>I: &quot;I: Illuminating Insights&quot;</a></li>
+      <li><a href='#social-sciences-j'>J: &quot;J: Journeys of Knowledge&quot;</a></li>
+      <li><a href='#social-sciences-k'>K: &quot;K: Keys to Curiosity&quot;</a></li>
+      <li><a href='#social-sciences-l'>L: &quot;L: Luminous Learnings&quot;</a></li>
+      <li><a href='#social-sciences-m'>M: &quot;M: Marvels of the Mind&quot;</a></li>
+      <li><a href='#social-sciences-n'>N: &quot;N: Navigating New Ideas&quot;</a></li>
+      <li><a href='#social-sciences-o'>O: &quot;O: Opening Opportunities&quot;</a></li>
+      <li><a href='#social-sciences-p'>P: &quot;P: Pathways of Progress&quot;</a></li>
+      <li><a href='#social-sciences-q'>Q: &quot;Q: Quest for Knowledge&quot;</a></li>
+      <li><a href='#social-sciences-r'>R: &quot;R: Realms of Research&quot;</a></li>
+      <li><a href='#social-sciences-s'>S: &quot;S: Secrets of Science&quot;</a></li>
+      <li><a href='#social-sciences-t'>T: &quot;T: Trailblazing Truths&quot;</a></li>
+      <li><a href='#social-sciences-u'>U: &quot;U: Unveiling Understandings&quot;</a></li>
+      <li><a href='#social-sciences-v'>V: &quot;V: Vessels of Vision&quot;</a></li>
+      <li><a href='#social-sciences-w'>W: &quot;W: Windows to Wisdom&quot;</a></li>
+      <li><a href='#social-sciences-y'>Y: &quot;Y: Yarns of Youthful Ideas&quot;</a></li>
+    </ul>
+    </nav>
+    <div class='main-content'>
+      <div class='grid-container'>
+                       <!-- YouTube Channel Page Content -->
+          <ul class='grid-list'>
+  <!-- Category: A &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='adventurous-a'>
+  <h1>A</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@AshleyHodgson' rel='noopener noreferrer' target='_blank'>
+    <h3>Ashley Hodgson</h3>
+    <img alt='Ashley Hodgson YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_l5ohOmJN4uZ6hF035CQMVPyskI0D0rE85XAiBuXb2VpAc=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Discover insightful discussions on economics, education, and society with Ashley Hodgson on YouTube.</p>
+  </a>
+</li>        
+  <!-- Category: B &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-b'>
+  <h1>B</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@BrookingsInstitution' rel='noopener noreferrer' target='_blank'>
+    <h3>Brookings Institution</h3>
+    <img alt='Brookings Institution YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/qtpqIwZM5nPkwOIjZi3Fpii3GK4MtTr8jj5G9GCEbkAKKrUBJLuKq9avXFh-_wDdpgoGU7zw=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore policy analysis and in-depth research on social, political, and economic issues with the Brookings Institution on YouTube.</p>
+  </a>
+</li>
+  <!-- Category: C &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-c'>
+  <h1>C</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@CriminologyWeb' rel='noopener noreferrer' target='_blank'>
+    <h3>CriminologyWeb</h3>
+    <img alt='CriminologyWeb YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_mR700apxstuDT64pRajABNO43Vp1GpiMLhpZ_PIU2URA=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore criminology, criminal justice, and related topics with CriminologyWeb on YouTube.</p>
+  </a>
+</li>
+<!-- Category: D &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-d'>
+  <h1>D</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@Danny.Hatcher' rel='noopener noreferrer' target='_blank'>
+    <h3>Danny Hatcher</h3>
+    <img alt='Danny Hatcher YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/HyZPgwWj5S1EAsDp4vvfZ-vzTfsS-TnC3Q3GQ6raS-z-8AIjNaZ9I6UEycF-Hi6AdywRyTGk6SU=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Delve into productivity, personal growth, and systems thinking with Danny Hatcher on YouTube.</p>
+  </a>
+</li>
+  <!-- Category: E &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-e'>
+  <h1>E</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@econtalkwithruss' rel='noopener noreferrer' target='_blank'>
+    <h3>EconTalk</h3>
+    <img alt='EconTalk YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_kh461JJLWhX37AF0F0vRT0k6jtH2J5-iDvI0KTAzyLJWM=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore discussions on economics, philosophy, and culture with Russ Roberts on EconTalk.</p>
+  </a>
+</li>
+<!-- Category: F &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-f'>
+  <h1>F</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@FairForAll_Org' rel='noopener noreferrer' target='_blank'>
+    <h3>Foundation Against Intolerance &amp; Racism</h3>
+    <img alt='Foundation Against Intolerance &amp; Racism YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_lh-zW9mQW9ZIpLf7pmnuoZ4uKf7lYej1XvmRwOHZMgJA=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore initiatives promoting fairness, understanding, and tolerance through education and advocacy on the Foundation Against Intolerance &amp; Racism YouTube channel.</p>
+  </a>
+</li>
+  <!-- Category: G &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-g'>
+  <h1>G</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@GrayWinsler' rel='noopener noreferrer' target='_blank'>
+    <h3>Gray Winsler</h3>
+    <img alt='Gray Winsler YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_kOYL9SrRec_25MjDF1QxrEsjrnuEUK7WgBwCJ0p4EoMAA=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Discover Gray Winsler&#8217;s content on social science, philosophy, and critical thought through engaging videos and discussions.</p>
+  </a>
+</li>
+    <!-- Category: H &#8211; Social Science YouTube Channels -->
+  <li class='grid-item category-header' id='social-sciences-h'>
+    <h1>H</h1>
+  </li>
+  <li class='grid-item'>
+    <a class='full-link' href='https://www.youtube.com/@HGSSS' rel='noopener noreferrer' target='_blank'>
+      <h3>Henry George School of Social Science</h3>
+      <img alt='Henry George School of Social Science Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/SMJI39tx7ijd5vxYRo1d-wYNrzXdl6c9n0Yet-sPs9gXNA4YJPYN0JtlE3cOl--xNs3Adwrx=s160-c-k-c0x00ffffff-no-rj'/>
+      <p>Explore social science and economic teachings with the Henry George School of Social Science on their YouTube channel.</p>
+    </a>
+  </li>
+<!-- Category: I &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-i'>
+  <h1>I</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@independentinstitute' rel='noopener noreferrer' target='_blank'>
+    <h3>Independent Institute</h3>
+    <img alt='Independent Institute YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_kYFKdqG_55lv35vOXeM9NcOabMnoEteGyKNuSvM-jOmFI=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore in-depth research and commentary on economic, social, and political issues from the Independent Institute on their YouTube channel.</p>
+  </a>
+</li>
+  <!-- Category: J &#8211; Social Science YouTube Channels -->
+  <li class='grid-item category-header' id='social-sciences-j'>
+    <h1>J</h1>
+  </li>
+  <li class='grid-item'>
+    <a class='full-link' href='https://www.youtube.com/@JJMcCullough' rel='noopener noreferrer' target='_blank'>
+      <h3>J.J. McCullough</h3>
+      <img alt='J.J. McCullough YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/7m4gq8laC41OZAFjhvYSKBUaEeuhMIeVZ5dMEFsjjhNre8GTxo58-NQUpKU0rNBJZbkuQjBX7w=s160-c-k-c0x00ffffff-no-rj'/>
+      <p>Explore commentary and analysis on political and social topics with J.J. McCullough on YouTube.</p>
+    </a>
+  </li>
+  <!-- Category: K &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-k'>
+  <h1>K</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@KoreanStoryTellers' rel='noopener noreferrer' target='_blank'>
+    <h3>KST by The Korea Times</h3>
+    <img alt='KST by The Korea Times YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/BXCllFzRVsPw5wttwTE97kU9SiWxJR1VF_v3osX0Xdvw_2K32u6ufP97z1uZUSZsC7Kfwipwmg8=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Discover compelling stories and insights from Korea on the KST by The Korea Times YouTube channel.</p>
+  </a>
+</li>
+<!-- Category: L &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-l'>
+  <h1>L</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@LibertarianismDotOrg' rel='noopener noreferrer' target='_blank'>
+    <h3>Libertarianism.org</h3>
+    <img alt='Libertarianism Org YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/Efr--tyzuwVwVoABVegIF-PrUMcXAvmEmO-UO5BUiFnUSijKNU7kAmlWtgwj4OGwziZa-zOOBoU=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore the ideas, history, and philosophy of libertarianism with Libertarianism Org on YouTube.</p>
+  </a>
+</li>
+<!-- Category: M &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-m'>
+  <h1>M</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@MoneyWeekVideos' rel='noopener noreferrer' target='_blank'>
+    <h3>MoneyWeek</h3>
+    <img alt='MoneyWeek YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_lAW0AczybqGmEZzb2N7fH0n3dW1SA4RWc7qnxSNupNYLI=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Learn about financial markets, economics, and wealth management with MoneyWeek&#39;s videos on YouTube.</p>
+  </a>
+</li>
+<!-- Category: N &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-n'>
+  <h1>N</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@NewEconomicThinking' rel='noopener noreferrer' target='_blank'>
+    <h3>New Economic Thinking</h3>
+    <img alt='New Economic Thinking YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/y5oME3zQAOvkQr7CI-IHLr7CFbzcjarMV3eE40SG98U6VCNde0k3SBI238esgdd2XfLqAsZHJA=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore innovative ideas and analyses about economic systems with the New Economic Thinking YouTube channel.</p>
+  </a>
+</li>
+<!-- Category: O &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-o'>
+  <h1>O</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@ObjectiveStandard' rel='noopener noreferrer' target='_blank'>
+    <h3>&#9698; Objective Standard Institute</h3>
+    <img alt='Objective Standard Institute YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/YwOMA3txD8eEuSrOg9oB0MrcSo2AMZz6Hvd8GgUJWGMunahozk60hlB84u3deUEPG1hLjMbm=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Engage with discussions on philosophy, economics, and more with the Objective Standard Institute YouTube channel.</p>
+  </a>
+</li>
+<!-- Category: P &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-p'>
+  <h1>P</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@pewresearch' rel='noopener noreferrer' target='_blank'>
+    <h3>Pew Research Center</h3>
+    <img alt='Pew Research Center YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_lyh-2D2PNTt3Az_SC1kzujNoSPBjMYF9w8-mFhajokOgI=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore in-depth data-driven research on social issues, demographics, and trends with Pew Research Center&#39;s YouTube channel.</p>
+  </a>
+</li>
+<!-- Category: Q &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-q'>
+  <h1>Q</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@Qznews' rel='noopener noreferrer' target='_blank'>
+    <h3>Quartz</h3>
+    <img alt='Quartz YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_nGQMXOFmFzAkB6jrQC57xhnxg_SQj76dLkwVmFjU-CpRM=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Discover global business news and trends, data-driven insights, and thought-provoking stories from Quartz on their YouTube channel.</p>
+  </a>
+</li>
+<!-- Category: R &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-r'>
+  <h1>R</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@ReasonTV' rel='noopener noreferrer' target='_blank'>
+    <h3>ReasonTV</h3>
+    <img alt='ReasonTV YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_laWbFN7VLpzIpPbp2eO_YiLXnMZV2R5NBawv6mtz9jDZ0=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore libertarian perspectives on news, politics, and culture through insightful interviews and commentary on ReasonTV&#39;s YouTube channel.</p>
+  </a>
+</li>
+<!-- Category: S &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-s'>
+  <h1>S</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@SomethingsOffwithAndrewHeaton' rel='noopener noreferrer' target='_blank'>
+    <h3>Something&#39;s Off with Andrew Heaton</h3>
+    <img alt='Something&apos;s Off with Andrew Heaton YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_k-cPg2gZfS3lAmB5RdTvBI-YVm5-3AhSgJMXlemRE89g=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Engage in humorous and thought-provoking discussions on politics, economics, and social issues with Andrew Heaton.</p>
+  </a>
+</li>
+<!-- Category: T &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-t'>
+  <h1>T</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@TheHinduOfficial' rel='noopener noreferrer' target='_blank'>
+    <h3>The Hindu</h3>
+    <img alt='The Hindu YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_noBA8yminc26WM23DspWUL9P_mrUoZXhPH5uX8dq9gsfA=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Stay informed with the latest news and analyses on current events, politics, and culture from The Hindu&#39;s official YouTube channel.</p>
+  </a>
+</li>
+<!-- Category: U &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-u'>
+  <h1>U</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@UChicagoSSD/featured' rel='noopener noreferrer' target='_blank'>
+    <h3>UChicago Social Sciences</h3>
+    <img alt='UChicago Social Sciences YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/2OokIh7sbdF8PwODaQaLtsJCQ_ijf1DPz049S2b6xJh4Q7ujPPOaVw3uIEHrBI_gdBW19ZEY5Q=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore in-depth discussions, research highlights, and thought leadership in the field of social sciences from the University of Chicago.</p>
+  </a>
+</li>
+<!-- Category: V &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-v'>
+  <h1>V</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@VladVexler' rel='noopener noreferrer' target='_blank'>
+    <h3>Vlad Vexler</h3>
+    <img alt='Vlad Vexler YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/ytc/AIdro_mM_nl68n6OT6P-bka0D2ctaxfwkj87HwyLK0Q6vaY7uNc=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Engage with in-depth discussions on politics, philosophy, and culture with Vlad Vexler on YouTube.</p>
+  </a>
+</li>
+<!-- Category: W &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-w'>
+  <h1>W</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@wsj' rel='noopener noreferrer' target='_blank'>
+    <h3>The Wall Street Journal</h3>
+    <img alt='The Wall Street Journal YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/JSS6ykU01xhBZd_sjDQrEmefuslfSPE0FNyVuw_QvRpn_J6SNX5aP0YGfw0h-wElil_PUw30O2o=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Stay updated with global news, financial markets, and expert analysis from The Wall Street Journal YouTube channel.</p>
+  </a>
+</li>
+<!-- Category: Y &#8211; Social Science YouTube Channels -->
+<li class='grid-item category-header' id='social-sciences-y'>
+  <h1>Y</h1>
+</li>
+<li class='grid-item'>
+  <a class='full-link' href='https://www.youtube.com/@YuvalNoahHarari' rel='noopener noreferrer' target='_blank'>
+    <h3>Yuval Noah Harari</h3>
+    <img alt='Yuval Noah Harari YouTube Channel Logo' class='grid-item-icon' src='https://yt3.googleusercontent.com/joj3rjhjH21r352YSneE8IERv6fw8kh07s6xOifJ7M5zW3o46-sNFQDXpwsmV-2MDnFcDqnbzQ=s160-c-k-c0x00ffffff-no-rj'/>
+    <p>Explore topics on history, technology, and the future of humanity with historian and author Yuval Noah Harari on his YouTube channel.</p>
+  </a>
+</li>
+
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+<footer class='footer-container'>
+  <div id='socket'>
+    <div class='container'>
+      <div class='footer-content'>
+        <div class='footer-column'>
+          <h3>Socials</h3>
+          <div class='footer-links'>
+            <a href='https://www.youtube.com/@harrisfamilyregister' rel='noopener noreferrer' target='_blank'>YouTube</a>
+            <a href='https://x.com/FamilyRegister' rel='noopener noreferrer' target='_blank'>Twitter</a>
+            <a href='https://www.reddit.com/user/HarrisFamilyRegister/' rel='noopener noreferrer' target='_blank'>Reddit</a>
+            <a href='https://www.tumblr.com/harrisfamilyregister' rel='noopener noreferrer' target='_blank'>Tumblr</a>
+          </div>
+        </div>
+        <div class='footer-column'>
+          <h3>Quick Links</h3>
+          <div class='footer-links'>
+            <a href='https://harrisfamilyregist.wixsite.com/harrisfamilyregister' rel='noopener noreferrer' target='_blank'>Wix Site</a>
+            <a href='https://sites.google.com/view/harrisfamilyrecommends/comedy' rel='noopener noreferrer' target='_blank'>Google Site</a>
+            <a href='https://forms.gle/hwUJJP69eRqcciRw6' rel='noopener noreferrer' target='_blank'>Suggestion Box</a>
+            <a href='https://about.me/harrisfamilyregister' rel='noopener noreferrer' target='_blank'>About Us</a>
+          </div>
+        </div>
+        <div class='footer-column'>
+          <h3>Wiki Resources</h3>
+          <div class='footer-links'>
+            <a href='https://commons.wikimedia.org' rel='noopener noreferrer' target='_blank'>Wikimedia Commons</a>
+            <a href='https://www.wikiversity.org' rel='noopener noreferrer' target='_blank'>Wikiversity</a>
+            <a href='https://www.wiktionary.org' rel='noopener noreferrer' target='_blank'>Wiktionary</a>
+            <a href='https://www.wikibooks.org' rel='noopener noreferrer' target='_blank'>WikiBooks</a>
+            <a href='https://www.wikipedia.org' rel='noopener noreferrer' target='_blank'>Wikipedia</a>
+          </div>
+        </div>
+        <div class='footer-column'>
+          <h3>AI Tools</h3>
+          <div class='footer-links'>
+            <a href='https://chatgpt.com/' rel='noopener noreferrer' target='_blank'>ChatGPT</a>
+            <a href='https://bard.google.com/' rel='noopener noreferrer' target='_blank'>Google Bard</a>
+            <a href='https://openai.com/dall-e-2' rel='noopener noreferrer' target='_blank'>DALL-E</a>
+            <a href='https://www.midjourney.com/' rel='noopener noreferrer' target='_blank'>Midjourney</a>
+          </div>
+        </div>
+        <div class='footer-column'>
+          <div class='copyright'>
+            &#169; <script>document.write(new Date().getFullYear())</script> Harris Family Register 
+            Licensed under the <a href='https://opensource.org/licenses/MIT' rel='noopener noreferrer' target='_blank'>MIT License</a>.
+            <br>
+            <a href='https://github.com/HarrisFamilyRegister/harris-nexus' rel='noopener noreferrer' target='_blank'>GitHub Repository</a>
+            <div class='back-to-top'>
+              <button id='back-to-top'>Back to Top</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<button class='btn btn-outline-light' id='back-to-top-fixed'>Back to Top</button>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<script type='application/ld+json'>
+{
+  &quot;@context&quot;: &quot;http://schema.org&quot;,
+  &quot;@type&quot;: &quot;BlogPosting&quot;,
+  &quot;mainEntityOfPage&quot;: {
+    &quot;@type&quot;: &quot;WebPage&quot;,
+    &quot;@id&quot;: &quot;<data:blog.canonicalUrl/>&quot;
+  },
+  &quot;headline&quot;: &quot;<data:blog.pageName/>&quot;,
+  &quot;description&quot;: &quot;<b:if cond='data:blog.metaDescription'><data:blog.metaDescription/><b:else><data:blog.pageName/></b:else></b:if>&quot;,
+  &quot;datePublished&quot;: &quot;<data:post.date/>&quot;,
+  &quot;dateModified&quot;: &quot;<data:post.lastUpdated/>&quot;,
+  &quot;image&quot;: {
+    &quot;@type&quot;: &quot;ImageObject&quot;,
+    &quot;url&quot;: &quot;<b:if cond='data:post.firstImageUrl'><data:post.firstImageUrl/><b:else>https://1.bp.blogspot.com/-BYDJ1dpFEhE/X9QnAUfeOSI/AAAAAAAAC-w/Ny43uReLVQUc5GaQZYeyZqhFNGqm-HpJgCLcBGAsYHQ/w1200-h630-p-k-no-nu/default.png</b:else></b:if>&quot;,
+    &quot;height&quot;: 630,
+    &quot;width&quot;: 1200
+  },
+  &quot;author&quot;: {
+    &quot;@type&quot;: &quot;Person&quot;,
+    &quot;name&quot;: &quot;<data:post.author.name/>&quot;
+  },
+  &quot;publisher&quot;: {
+    &quot;@type&quot;: &quot;Organization&quot;,
+    &quot;name&quot;: &quot;Wandering Wikis&quot;,
+    &quot;logo&quot;: {
+      &quot;@type&quot;: &quot;ImageObject&quot;,
+      &quot;url&quot;: &quot;https://1.bp.blogspot.com/-50s1RMWLA7s/X8OaYjJcMiI/AAAAAAAASUQ/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png&quot;,
+      &quot;width&quot;: 297,
+      &quot;height&quot;: 65
+    }
+  }
+}
+</script>
+</b:if>
+<script type='text/javascript'>
+//<![CDATA[
+document.addEventListener('DOMContentLoaded', function() {
+  var backToTopButton = document.getElementById('back-to-top-fixed');
+  var backToTopFooterButton = document.getElementById('back-to-top');
+  
+  function scrollToTop(e) {
+    e.preventDefault();
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  }
+
+  backToTopButton.addEventListener('click', scrollToTop);
+  backToTopFooterButton.addEventListener('click', scrollToTop);
+
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 100) {
+      backToTopButton.style.display = 'block';
+    } else {
+      backToTopButton.style.display = 'none';
+    }
+  });
+});
+//]]>
+</script>
+ <script type='text/javascript'>
+//<![CDATA[
+document.addEventListener('DOMContentLoaded', function() {
+  var cyclePageLink = document.getElementById('random-page-link');
+  var navButtons = document.querySelectorAll('.nav-button');
+  var currentIndex = 0;
+
+  cyclePageLink.addEventListener('click', function(e) {
+    e.preventDefault();
+    
+    // Get the next page in the cycle
+    var nextPage = navButtons[currentIndex].href;
+    
+    // Update the index for the next click
+    currentIndex = (currentIndex + 1) % navButtons.length;
+    
+    // Navigate to the next page
+    window.location.href = nextPage;
+  });
+
+  // Set the initial index based on the current page
+  var currentPath = window.location.pathname;
+  for (var i = 0; i < navButtons.length; i++) {
+    if (navButtons[i].pathname === currentPath) {
+      currentIndex = (i + 1) % navButtons.length;
+      break;
+    }
+  }
+});
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+document.addEventListener('DOMContentLoaded', function() {
+    const gridList = document.querySelector('.grid-list');
+
+    gridList.addEventListener('click', function(event) {
+        const target = event.target.closest('.grid-item, .category-header');
+        if (!target) return;
+
+        let link;
+        if (target.classList.contains('category-header')) {
+            link = target.querySelector('a.category-link');
+        } else {
+            link = target.querySelector('a.full-link');
+        }
+
+        if (link && link.href) {
+            if (event.ctrlKey || event.metaKey) {
+                window.open(link.href, '_blank');
+            } else {
+                window.location.href = link.href;
+            }
+            event.preventDefault();
+        }
+    });
+});
+//]]>
+</script>
+  <script>
+        // Function to sanitize user input using DOMPurify
+        function sanitizeInput(input) {
+            // Use DOMPurify to sanitize the input
+            return DOMPurify.sanitize(input);
+        }
+
+        // Event listener for the submit button
+        document.getElementById('submitButton').addEventListener('click', function() {
+            var userInput = document.getElementById('userInput').value;
+            var sanitized = sanitizeInput(userInput);
+            
+            // Display the sanitized output on the page
+            document.getElementById('output').innerHTML = `<p>Sanitized Output: ${sanitized}</p>`;
+        });
+    </script>
+  </body>
+</html>
