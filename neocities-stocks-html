@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <!-- Page Title -->
+    <title>Harris Family Register</title>
+
+    <!-- Meta Tags for SEO and Social Sharing -->
+    <meta name="description" content="Harris Nexus is a simple, easy-to-navigate bookmarking website designed for the Harris fam and its interconnected tribes. It features curated links to favorite YouTube channels, embedded stock tickers on a dedicated page, and other useful resources. The design prioritizes simplicity and accessibility, making it especially user-friendly for older family members.">
+    <meta name="keywords" content="HTML, CSS, Neocities, website, personal, portfolio">
+    <meta name="author" content="Harris Family Tribe">
+    
+    <!-- Open Graph Meta Tags (for better social media sharing) -->
+    <meta property="og:title" content="HarrisFamilyRegister">
+    <meta property="og:description" content="The Harris Family Register is a bookmarking site for preserving and sharing genealogical information, historical records, and family stories for the Harris family.">
+    <meta property="og:image" content="https://i.pinimg.com/1200x/78/3c/f6/783cf6783e9be24c718166b5596a3995.jpg">
+    <meta property="og:url" content="https://harrisfamilyregister.neocities.org/stocks">
+    <meta property="og:type" content="website">
+    
+    <!-- Improved viewport settings -->
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0' name='viewport'/>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<meta content='true' name='HandheldFriendly'/>
+<meta content='yes' name='apple-mobile-web-app-capable'/>
+<title>Harris Family Register</title>
+
+<!-- SEO meta tags -->
+<meta name="description" content="The Harris Family Register is a digital archive dedicated to documenting the history and genealogy of the Harris family." />
+<meta name="keywords" content="Harris family, genealogy, family history, Harris family tree, Harris ancestry" />
+
+
+    <!-- Twitter Card Meta Tags (for better Twitter sharing) -->
+    <meta name="twitter:card" content="https://pbs.twimg.com/profile_banners/968570585193353217/1728431395/1500x500">
+    <meta name="twitter:title" content="HarrisFamilyRegister">
+    <meta name="twitter:description" content="The Harris' fam's account and interconnected tribes.">
+    <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1843799616124334080/ZND2Qx2P_400x400.png">
+    
+    <!-- Link to external CSS stylesheet (optional) -->
+     <link rel="stylesheet" href="https://harrisfamilyregister.neocities.org/style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+ <link href='https://fonts.googleapis.com/css2?family=IM+Fell+English&amp;display=swap' rel='stylesheet'/>
+    <!-- Additional external links can go here (fonts, scripts, etc.) -->
+</head>
+
+<body>
+<div class='header-container'>
+  <header class='header'>
+    <div class='logo-container'>
+      <a href='#' id='random-page-link'>
+        <img alt='Harris Family Logo' class='header-logo' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwz4mDSIl9skWS_jvQcwGzpfAWbwTL8wdKeb9kFgLy76QoQkEiR1lSiaUOt4nDeiuJag9J0pjUfzqYjRV-8-0XBgFTqNcs4794ZxID7niMdRfz3N8v29QWR2MQ8-f3JlCfNjdp9y7aPPoop6B92rlzEZPsu-lz3kEurrkWdwmDNMHZTFPItsURSJXbcmg/s320/512%20Png%20Harris%20Family%20Logo.png' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwz4mDSIl9skWS_jvQcwGzpfAWbwTL8wdKeb9kFgLy76QoQkEiR1lSiaUOt4nDeiuJag9J0pjUfzqYjRV-8-0XBgFTqNcs4794ZxID7niMdRfz3N8v29QWR2MQ8-f3JlCfNjdp9y7aPPoop6B92rlzEZPsu-lz3kEurrkWdwmDNMHZTFPItsURSJXbcmg/s320/512%20Png%20Harris%20Family%20Logo.png 2x'>
+      </a>
+    </div>
+    <nav class='nav-menu'>
+     <ul class='nav-list'>
+        <li><a class='nav-button' href='/YouTubeChannels'>YouTube Channels</a></li>
+        <li><a class='nav-button' href='/stocks'>Stocks</a></li>
+        <li><a class='nav-button' href='/news'>News</a></li>
+        <li><a class='nav-button' href='/Sports'>Sports</a></li>
+        <li><a class='nav-button' href='/YouTubePlaylists'>YouTube Playlists</a></li>
+        <li><a class='nav-button' href='https://harrisfamswatchistory.tumblr.com/'>Our Watch History</a></li>
+      </ul>
+    </nav>
+  </header>
+</div>
+
+<div class='main-container'>
+  <div class='content-wrapper'>
+  <nav class='sidebar'>
+    <h2>Stock Trading Resources</h2>
+    <ul>
+        <li><a href='https://finance.yahoo.com'>Yahoo Finance</a></li>
+        <li><a href='https://www.google.com/finance'>Google Finance</a></li>
+        <li><a href='https://www.bloomberg.com/markets'>Bloomberg Markets</a></li>
+        <li><a href='https://www.marketwatch.com'>MarketWatch</a></li>
+        <li><a href='https://www.reuters.com/finance/markets'>Reuters Markets</a></li>
+        <li><a href='https://www.investing.com'>Investing.com</a></li>
+        <li><a href='https://www.cnbc.com/stocks/'>CNBC Stocks</a></li>
+        <li><a href='https://www.fool.com/'>The Motley Fool</a></li>
+        <li><a href='https://www.tradingview.com'>TradingView</a></li>
+        <li><a href='https://finviz.com/'>Finviz</a></li>
+    </ul>
+</nav>
+    <div class='main-content'>
+      <!-- TradingView Widget BEGIN -->
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+        {
+          "symbols": [
+            [
+              "AMEX:JEPI|1M|USD"
+            ],
+            [
+              "NYSE:RTX|1M|USD"
+            ],
+            [
+              "NYSE:KMI|1M|USD"
+            ]
+          ],
+          "chartOnly": false,
+          "width": "100%",
+          "height": "100%",
+          "locale": "en",
+          "colorTheme": "dark",
+          "autosize": true,
+          "showVolume": false,
+          "showMA": false,
+          "hideDateRanges": false,
+          "hideMarketStatus": false,
+          "hideSymbolLogo": false,
+          "scalePosition": "right",
+          "scaleMode": "Normal",
+          "fontFamily": "-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif",
+          "fontSize": "10",
+          "noTimeScale": false,
+          "valuesTracking": "1",
+          "changeMode": "price-and-percent",
+          "chartType": "area",
+          "maLineColor": "#2962FF",
+          "maLineWidth": 1,
+          "maLength": 9,
+          "headerFontSize": "medium",
+          "lineWidth": 2,
+          "lineType": 0,
+          "dateRanges": [
+            "1d|1",
+            "1m|30",
+            "3m|60",
+            "12m|1D",
+            "60m|1W",
+            "all|1M"
+          ]
+        }
+        </script>
+      </div>
+      <!-- TradingView Widget END -->
+
+    
+    </div>
+  </div>
+</div>
+
+
+<footer class='footer-container'>
+  <div id='socket'>
+    <div class='container'>
+      <div class='footer-content'>
+        <div class='footer-column'>
+          <h3>Socials</h3>
+          <div class='footer-links'>
+            <a href='https://www.youtube.com/@harrisfamilyregister' rel='noopener noreferrer' target='_blank'>YouTube</a>
+            <a href='https://x.com/FamilyRegister' rel='noopener noreferrer' target='_blank'>Twitter</a>
+            <a href='https://www.reddit.com/user/HarrisFamilyRegister/' rel='noopener noreferrer' target='_blank'>Reddit</a>
+            <a href='https://www.tumblr.com/harrisfamilyregister' rel='noopener noreferrer' target='_blank'>Tumblr</a>
+          </div>
+        </div>
+        <div class='footer-column'>
+          <h3>Quick Links</h3>
+          <div class='footer-links'>
+            <a href='https://harrisfamilyregist.wixsite.com/harrisfamilyregister' rel='noopener noreferrer' target='_blank'>Wix Site</a>
+            <a href='https://sites.google.com/view/harrisfamilyrecommends/comedy' rel='noopener noreferrer' target='_blank'>Google Site</a>
+            <a href='https://forms.gle/hwUJJP69eRqcciRw6' rel='noopener noreferrer' target='_blank'>Suggestion Box</a>
+            <a href='https://about.me/harrisfamilyregister' rel='noopener noreferrer' target='_blank'>About Us</a>
+          </div>
+        </div>
+        <div class='footer-column'>
+          <h3>Wiki Resources</h3>
+          <div class='footer-links'>
+            <a href='https://commons.wikimedia.org' rel='noopener noreferrer' target='_blank'>Wikimedia Commons</a>
+            <a href='https://www.wikiversity.org' rel='noopener noreferrer' target='_blank'>Wikiversity</a>
+            <a href='https://www.wiktionary.org' rel='noopener noreferrer' target='_blank'>Wiktionary</a>
+            <a href='https://www.wikibooks.org' rel='noopener noreferrer' target='_blank'>WikiBooks</a>
+            <a href='https://www.wikipedia.org' rel='noopener noreferrer' target='_blank'>Wikipedia</a>
+          </div>
+        </div>
+        <div class='footer-column'>
+          <h3>AI Tools</h3>
+          <div class='footer-links'>
+            <a href='https://chatgpt.com/' rel='noopener noreferrer' target='_blank'>ChatGPT</a>
+            <a href='https://bard.google.com/' rel='noopener noreferrer' target='_blank'>Google Bard</a>
+            <a href='https://openai.com/dall-e-2' rel='noopener noreferrer' target='_blank'>DALL-E</a>
+            <a href='https://www.midjourney.com/' rel='noopener noreferrer' target='_blank'>Midjourney</a>
+          </div>
+        </div>
+        <div class='footer-column'>
+          <div class='copyright'>
+            &#169; <script>document.write(new Date().getFullYear())</script> Harris Family Register 
+            Licensed under the <a href='https://opensource.org/licenses/MIT' rel='noopener noreferrer' target='_blank'>MIT License</a>.
+            <br>
+            <a href='https://github.com/HarrisFamilyRegister/harris-family-register-blogger-theme' rel='noopener noreferrer' target='_blank'>GitHub Repository</a>
+            <div class='back-to-top'>
+              <button id='back-to-top'>Back to Top</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<button class='btn btn-outline-light' id='back-to-top-fixed'>Back to Top</button>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<script type='application/ld+json'>
+{
+  &quot;@context&quot;: &quot;http://schema.org&quot;,
+  &quot;@type&quot;: &quot;BlogPosting&quot;,
+  &quot;mainEntityOfPage&quot;: {
+    &quot;@type&quot;: &quot;WebPage&quot;,
+    &quot;@id&quot;: &quot;<data:blog.canonicalUrl/>&quot;
+  },
+  &quot;headline&quot;: &quot;<data:blog.pageName/>&quot;,
+  &quot;description&quot;: &quot;<b:if cond='data:blog.metaDescription'><data:blog.metaDescription/><b:else><data:blog.pageName/></b:else></b:if>&quot;,
+  &quot;datePublished&quot;: &quot;<data:post.date/>&quot;,
+  &quot;dateModified&quot;: &quot;<data:post.lastUpdated/>&quot;,
+  &quot;image&quot;: {
+    &quot;@type&quot;: &quot;ImageObject&quot;,
+    &quot;url&quot;: &quot;<b:if cond='data:post.firstImageUrl'><data:post.firstImageUrl/><b:else>https://1.bp.blogspot.com/-BYDJ1dpFEhE/X9QnAUfeOSI/AAAAAAAAC-w/Ny43uReLVQUc5GaQZYeyZqhFNGqm-HpJgCLcBGAsYHQ/w1200-h630-p-k-no-nu/default.png</b:else></b:if>&quot;,
+    &quot;height&quot;: 630,
+    &quot;width&quot;: 1200
+  },
+  &quot;author&quot;: {
+    &quot;@type&quot;: &quot;Person&quot;,
+    &quot;name&quot;: &quot;<data:post.author.name/>&quot;
+  },
+  &quot;publisher&quot;: {
+    &quot;@type&quot;: &quot;Organization&quot;,
+    &quot;name&quot;: &quot;Wandering Wikis&quot;,
+    &quot;logo&quot;: {
+      &quot;@type&quot;: &quot;ImageObject&quot;,
+      &quot;url&quot;: &quot;https://1.bp.blogspot.com/-50s1RMWLA7s/X8OaYjJcMiI/AAAAAAAASUQ/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png&quot;,
+      &quot;width&quot;: 297,
+      &quot;height&quot;: 65
+    }
+  }
+}
+</script>
+</b:if>
+<script type='text/javascript'>
+//<![CDATA[
+document.addEventListener('DOMContentLoaded', function() {
+  var backToTopButton = document.getElementById('back-to-top-fixed');
+  var backToTopFooterButton = document.getElementById('back-to-top');
+  
+  function scrollToTop(e) {
+    e.preventDefault();
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  }
+
+  backToTopButton.addEventListener('click', scrollToTop);
+  backToTopFooterButton.addEventListener('click', scrollToTop);
+
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 100) {
+      backToTopButton.style.display = 'block';
+    } else {
+      backToTopButton.style.display = 'none';
+    }
+  });
+});
+//]]>
+</script>
+ <script type='text/javascript'>
+//<![CDATA[
+document.addEventListener('DOMContentLoaded', function() {
+  var cyclePageLink = document.getElementById('random-page-link');
+  var navButtons = document.querySelectorAll('.nav-button');
+  var currentIndex = 0;
+
+  cyclePageLink.addEventListener('click', function(e) {
+    e.preventDefault();
+    
+    // Get the next page in the cycle
+    var nextPage = navButtons[currentIndex].href;
+    
+    // Update the index for the next click
+    currentIndex = (currentIndex + 1) % navButtons.length;
+    
+    // Navigate to the next page
+    window.location.href = nextPage;
+  });
+
+  // Set the initial index based on the current page
+  var currentPath = window.location.pathname;
+  for (var i = 0; i < navButtons.length; i++) {
+    if (navButtons[i].pathname === currentPath) {
+      currentIndex = (i + 1) % navButtons.length;
+      break;
+    }
+  }
+});
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+document.addEventListener('DOMContentLoaded', function() {
+    const gridList = document.querySelector('.grid-list');
+
+    gridList.addEventListener('click', function(event) {
+        const target = event.target.closest('.grid-item, .category-header');
+        if (!target) return;
+
+        let link;
+        if (target.classList.contains('category-header')) {
+            link = target.querySelector('a.category-link');
+        } else {
+            link = target.querySelector('a.full-link');
+        }
+
+        if (link && link.href) {
+            if (event.ctrlKey || event.metaKey) {
+                window.open(link.href, '_blank');
+            } else {
+                window.location.href = link.href;
+            }
+            event.preventDefault();
+        }
+    });
+});
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+document.addEventListener('DOMContentLoaded', function() {
+    const imageLink = document.getElementById('randomCategoryLink');
+
+    // Array of pages and more detailed category headers
+    const pages = [
+        { url: 'https://harrisfamilyregister.blogspot.com/p/300-social-sciences-youtube-channels.html', headers: ['#social-sciences-a', '#social-sciences-b', '#social-sciences-c', '#social-sciences-d', '#social-sciences-e', '#social-sciences-f', '#social-sciences-g', '#social-sciences-h', '#social-sciences-i', '#social-sciences-j', '#social-sciences-k', '#social-sciences-l', '#social-sciences-m', '#social-sciences-n', '#social-sciences-o', '#social-sciences-p', '#social-sciences-q', '#social-sciences-r', '#social-sciences-s', '#social-sciences-t', '#social-sciences-u', '#social-sciences-v', '#social-sciences-w', '#social-sciences-x', '#social-sciences-y', '#social-sciences-z'] },
+        { url: 'https://harrisfamilyregister.blogspot.com/p/sports.html', headers: ['#soccer', '#baseball', '#football'] },
+        { url: 'https://harrisfamilyregister.blogspot.com/p/news.html', headers: ['#news-aggregators', '#right-news', '#center-news', '#left-news', '#world-news', '#business-news', '#science-news'] },
+        { url: 'https://harrisfamilyregister.blogspot.com/p/youtube-playlists.html', headers: ['#computer-science', '#philosophy-psychology', '#religion', '#social-sciences', '#language', '#pure-science', '#technology', '#arts-recreation', '#literature', '#history-geography'] },
+        { url: 'https://harrisfamilyregister.blogspot.com/p/youtube-channels.html', headers: ['#technology', '#arts-recreation', '#social-sciences'] }
+    ];
+
+    imageLink.addEventListener('click', function(event) {
+        event.preventDefault();  // Prevent default behavior
+
+        // Select a random page
+        const randomPage = pages[Math.floor(Math.random() * pages.length)];
+
+        // Select a random category header from the selected page
+        const randomHeader = randomPage.headers[Math.floor(Math.random() * randomPage.headers.length)];
+
+        // Redirect to the random page and header
+        window.location.href = randomPage.url + randomHeader;
+    });
+});
+//]]>
+</script>
+  </body>
+</html>
